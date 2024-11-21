@@ -29,9 +29,7 @@ Testing is done using Cypress. Run the tests with the following :
 1.  Start your development server:
     npm run dev
 2.  Run Cypress:
-    npx cypress open
-
-3.  Select cart.cy.js from the test runner to execute the tests.
+    npx cypress run
 
 ### Technologies Used
 
