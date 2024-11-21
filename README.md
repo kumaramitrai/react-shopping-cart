@@ -22,7 +22,16 @@ Make sure you have Node.js installed on your machine.
 
 ### Testing
 
-Testing is done using Cypress. Run the tests with the following command: `npm run test`.
+Testing is done using Cypress. Run the tests with the following :
+
+## Run the Tests
+
+1.  Start your development server:
+    npm run dev
+2.  Run Cypress:
+    npx cypress open
+
+3.  Select cart.cy.js from the test runner to execute the tests.
 
 ### Technologies Used
 
