@@ -7,7 +7,7 @@ const Footer = () => {
         <p>&copy; {currentYear} Your Company. All rights reserved.</p>
 
           <div className="footer-social-icons">
-            <a href="#" aria-label="github profile">
+            <a href="https://github.com/kumaramitrai/react-shopping-cart" aria-label="github profile">
               <i className="devicon-github-original" />
             </a>
             <a

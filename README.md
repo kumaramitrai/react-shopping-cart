@@ -21,7 +21,7 @@ Make sure you have Node.js installed on your machine.
 
 ### Testing
 
-Testing is done using Vitest. Run the tests with the following command: `npm run test`.
+Testing is done using Cypress. Run the tests with the following command: `npm run test`.
 
 ### Technologies Used
 
