@@ -15,20 +15,20 @@ This project is a React application built with Vite. It utilizes the React Route
 Make sure you have Node.js installed on your machine.
 
 ### Installation
-
-1. Clone the repository
-2. `npm install`
-3. `npm run dev`
+<!-- Clone Repo -->
+    git clone https://github.com/kumaramitrai/react-shopping-cart.git
+<!-- Install dependencies -->
+    npm install
+<!-- Run React App -->
+    npm run dev
 
 ### Testing
 
 Testing is done using Cypress. Run the tests with the following :
 
-## Run the Tests
-
-1.  Start your development server:
+<!-- Start your development server -->
     npm run dev
-2.  Run Cypress:
+<!--  Run Test using Cypress -->
     npx cypress run
 
 ### Technologies Used
